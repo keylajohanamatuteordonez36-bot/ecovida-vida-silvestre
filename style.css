@@ -1102,10 +1102,3 @@ a {
     transition-duration: 0.01ms !important;
   }
 }
-marquee {
-  background-color: #173e2d;
-  color: #ffffff;
-  padding: 10px;
-  font-size: 15px;
-  font-weight: bold;
-}
